@@ -1,4 +1,5 @@
 import operator
+# gitbus, most mi lesz vleed?
 
 
 def display_inventory(inv):
@@ -23,6 +24,8 @@ def add_to_inventory(inventory, added_items):
 
 
 def print_table(inventory, order=None):
+    # ki az a github?
+
     longest_string = 0
     for key in inventory.keys():
         if len(key) > longest_string:
@@ -99,5 +102,7 @@ def main():
     # export the inventory
     export_inventory(added_and_imported_inv, "exported_inv.csv")
 
+    # ide most írok valamit a github miatt
+    # ide is
 
 main()
