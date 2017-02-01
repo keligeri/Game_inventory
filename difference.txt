@@ -1,0 +1,3 @@
+git log master..other_branch
+git log <since>..<until> = git log --after --before
+
