@@ -1,2 +1,6 @@
 megprobalom hogy ha local branchrol nyomok fel, akkor megjelenik-e
 remote branchként.
+
+
+Mukodik is!! :)
+igeN! :)
